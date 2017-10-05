@@ -1,0 +1,28 @@
+.A
+{height: 100px;
+background-color: #E8341A;
+margin: 0;
+}
+
+.wrapper
+{width: 600px;
+margin: auto;
+}
+.C
+{margin: auto;
+text-decoration: underline;
+}
+.B
+{height: 70px;
+background-color: #E8341A;
+margin: 0;
+text-align: center;
+color: white;
+}
+.H
+{text-align: center;
+height: auto;
+font-size: 75px;
+font-family: Arial;
+color: white;
+}
